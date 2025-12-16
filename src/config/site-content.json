@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "Joanna's Blog",
-		"description": "Joanna 的个人博客，记录个人探索、思考。当前兴趣主要在：AI应用、认识论、斯多葛学派",
+		"description": "Joanna 的个人博客",
 		"username": "Joanna"
 	},
 	"theme": {
@@ -46,7 +46,7 @@
 			"type": "github",
 			"value": "https://github.com/zpByte",
 			"label": "Github",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "email",
